@@ -11,6 +11,7 @@ DerivedData/
 *.xcworkspace
 *.xcodeproj/project.xcworkspace
 *.xcuserdata
+*.xcbkptlist
 *.moved-aside
 
 # User-specific files
