@@ -9,12 +9,12 @@ import SwiftUI
 
 struct ProfileView: View {
     
-    @State private var isPremium: Bool = false
+    @State private var isPremium: Bool = true
     
     var body: some View {
         Text("Ross!")
             .onAppear {
-                
+                // do something
             }
     }
 }
